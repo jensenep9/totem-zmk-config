@@ -91,7 +91,7 @@
     base_layer {
         bindings = <
                 &kp Q           &kp W           &kp E           &kp R           &kp T            &kp Y           &kp U           &kp I           &kp O           &kp P
-                &hml LGUI A     &hml LALT S     &kp D		&hml LCTRL F    &kp G            &kp H           &hmr RCTRL J    &kp K	    	&hmr RALT L     &hmr RGUI ;
+                &hml LGUI A     &hml LALT S     &kp D		&hml LCTRL F    &kp G            &kp H           &hmr RCTRL J    &kp K	    	&hmr RALT L     &hmr RGUI SEMI
      &kp ESC    &kp Z           &kp X           &kp C           &kp V           &kp B            &kp N           &kp M           &kp COMMA       &kp DOT         &kp FSLH        &kp BSPC
                         			&lt NAV BSPC   &kp LSHFT      &lt MOD SPACE     &lt ADJ ENTER   &lt CODE SPACE   &kp LSHFT
         >;
