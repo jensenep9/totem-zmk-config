@@ -103,7 +103,7 @@
             	&kp GRAVE       &kp AT          &kp HASH        &kp SQT         &kp DQT         &kp K_CALC      &kp N7          &kp N8          &kp N9          &kp N0
             	&kp LBKT        &hml LALT RBKT  &hml LSHFT LPAR &hml LCTRL RPAR &kp UNDER       &kp MINUS       &kp N4		&kp N5	   	&kp N6		&kp PLUS
   &kp CARET       &kp AMPS        &kp PIPE        &kp EXCL        &kp TILDE       &kp DLLR        &kp EQUAL       &kp N1          &kp N2          &kp N3          &kp DOT         &kp DEL
-        					&trans          &trans          &trans          &kp star	&kp N0          &kp BSLH
+        					&trans          &trans          &trans          &kp STAR	&kp N0          &kp BSLH
         >;
     };
 
